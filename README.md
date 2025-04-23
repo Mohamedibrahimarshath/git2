@@ -1,1 +1,1 @@
-# git2
+hi im a  git administarater
